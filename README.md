@@ -1,8 +1,8 @@
 How To Use 🔧
-From your command line, first clone Dopefolio:
+From your command line, first clone react-cryptoApp:
 
 # Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
+$ git clone https://github.com/VaggelisAthan/react-cryptoApp
 
 # Go into the repository
 $ cd react-cryptoApp
