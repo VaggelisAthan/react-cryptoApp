@@ -17,7 +17,7 @@ Using NPM:
 # Install dependencies
 $ npm install
 
-#Setting env variables
+# Setting env variables
  1. Rename sample.env file in react-cryptoApp folder to .env
  2. Go to https://rapidapi.com/Coinranking/api/coinranking1/ subscribe to the API and click test endpoint. 
  Copy the 'x-rapidapi-key' value into REACT_APP_RAPIDAPI_KEY env variable.
